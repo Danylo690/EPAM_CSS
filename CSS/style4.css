@@ -1,0 +1,15 @@
+.fourth_block{
+    font-size: 0px;
+    background-color: #515151;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.fourth_block_subtext{
+    width: 550px;
+    text-align: center;
+    font-size: 16px;
+    color: #CECECE;
+    font-weight: 400;
+}

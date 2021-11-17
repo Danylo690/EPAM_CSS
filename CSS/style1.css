@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.first_block{
+    font-size: 0px;
+    background-color: #DE2B24;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 188px;
+    padding-right: 188px;
+}
+
+.main_text{
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+}
+
+.sub_text{
+    font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+    color: white;
+}
+
+.line{
+    border-top: 5px solid white;
+    margin-top: 10px;
+    margin-bottom: 45px;
+    width: 45px;
+}
+
+.cell{
+    display: inline-block;
+    background-color: #F35E59;
+    width: 266px;
+    height: 126px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    vertical-align: top;
+    overflow: hidden;
+}
+
+.icon{ padding-bottom: 15px; }
+
+.cell_main_text{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+}
+
+.cell_sub_text{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+}
+
+.first_image{
+    position: relative;
+    top: -70px;
+    left: -120px;
+}
+
+.second_image{
+    position: relative;
+    top: -70px;
+    left: -70px;
+}
